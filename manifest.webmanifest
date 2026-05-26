@@ -1,0 +1,18 @@
+{
+  "name": "Fitly",
+  "short_name": "Fitly",
+  "description": "Offline-first fitness planner and daily tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf4",
+  "theme_color": "#176b62",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
