@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Fitly">
+  <rect width="512" height="512" rx="88" fill="#176b62"/>
+  <path fill="#cdeee2" d="M128 342c0-88 56-164 134-193 11-4 22 5 20 16l-12 62h79c15 0 24 17 15 29L243 418c-9 13-30 4-25-12l24-80h-92c-12 0-22 10-22 22v-6z"/>
+  <circle cx="346" cy="145" r="42" fill="#f4c95d"/>
+</svg>
